@@ -9,3 +9,20 @@
 ![CHILOE-2-2](https://github.com/user-attachments/assets/9fb1e550-cd8e-4766-93d8-c0a1d748e390)
 ![AMAC_PENDON](https://github.com/user-attachments/assets/8c8fb2db-efbc-4f90-8356-50da9e79a3f4)
 <img width="150" alt="AFICHES" src="https://github.com/user-attachments/assets/2cbf6961-7df4-4fe0-8761-38dd449a4a14">
+![VACA](https://github.com/user-attachments/assets/c598dc2b-f53a-4936-924b-f196c6d557dc)
+![MARIPOSA](https://github.com/user-attachments/assets/c9e97341-5393-442e-b605-e057858cda50)
+
+
+![ZOO-3](https://github.com/user-attachments/assets/2a8cbd0f-14a3-4108-a09e-7c122ff6d85e)
+<img width="637" alt="RRSS-2-2" src="https://github.com/user-attachments/assets/0d02aef9-943d-41f3-840a-59c954e29672">
+<img width="644" alt="PTO EDEN_2-2" src="https://github.com/user-attachments/assets/f134698e-f467-4623-872b-3918c0f13bd9">
+![JOINT-3](https://github.com/user-attachments/assets/0708afb3-b2ec-4f49-b926-f08beaca9e0e)
+<img width="641" alt="GUÍA AVES-2-2" src="https://github.com/user-attachments/assets/a064dff2-37dd-45a2-9e6f-0686204156f8">
+![EXP_STGO_2-2-2](https://github.com/user-attachments/assets/fa752e92-7654-4c11-ab6a-58ad907121e4)
+<img width="378" alt="Cuentos_2-3-2" src="https://github.com/user-attachments/assets/daa2f37d-fcba-4714-9a58-18c92222259c">
+![CHILOE-4](https://github.com/user-attachments/assets/4e5e4e40-96ba-416a-a802-129d0c6d6853)
+![AMAC_PENDON](https://github.com/user-attachments/assets/36a113fa-1137-42c2-b6a8-852faca0f461)
+<img width="583" alt="AFICHES" src="https://github.com/user-attachments/assets/4b4b6361-18c5-4fe5-a60f-5d0ccadc2a40">
+![MARIPOSA](https://github.com/user-attachments/assets/c992bae6-549d-47e7-9c00-f64edaf213b4)
+![VACA](https://github.com/user-attachments/assets/8e92bdec-e4a3-4d32-a61f-8ad4fd918c7a)
+
