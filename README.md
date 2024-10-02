@@ -27,3 +27,7 @@
 ![MARIPOSA](https://github.com/user-attachments/assets/c992bae6-549d-47e7-9c00-f64edaf213b4)
 ![VACA](https://github.com/user-attachments/assets/8e92bdec-e4a3-4d32-a61f-8ad4fd918c7a)
 
+![DSC_9356-2-2](https://github.com/user-attachments/assets/ad9e5dad-48b2-40ef-aff2-6dcc8c8df928)
+
+
+
