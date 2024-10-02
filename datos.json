@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Día del Patrimonio",
+        "descripcion": "Trabajo realizado para el OPR de Carteles, en donde se realizó una dupla de carteles inspirados en el cartelistab Henryk Tomaszewski, basándonos en sus imágenes vectoriales planas. Se eligió la Iglesia San Francisco de Chiloé como foco del cartel, simbolizando el patrimonio material chileno.",
+        "fecha": "2024",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/9fb1e550-cd8e-4766-93d8-c0a1d748e390",
+        "fotos":"https://picsum.photos/id/447/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Buin Zoo",
+        "descripcion": "Trabajo realizado para el OPR de Ilustración Creativa, donde el desafío era realizar una ilustración vectorial como promoción de la temporada de verano 2023 del Buin Zoo",
+        "fecha": "2023",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/7a1b653f-680f-4335-b9cb-5f436ee69c17",
+        "fotos": "https://picsum.photos/id/137/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Joint",
+        "descripcion": "Trabajo realizado para el OPR de CAD/CAM donde se diseñó una mesa auxiliar, donde su característica principal es que sus apoyos residen sobre cada uno, formando una estructura firme. Su diseño de piezas modulares está pensado para jugar con la repetición de las piezas y los calces de .",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/3919a40e-6d9a-411e-9dd3-7ca1b2ac1960",
+        "fotos": "https://picsum.photos/id/442/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Revista Puerto Edén",
+        "descripcion": "Trabajo realizado para Servicio País Magallanes. Se realizó una revista sobre la comunidad de Puerto Edén para apoyar el turismo dentro de la localidad, mostrando tanto su flora y fauna, como el patrimonio cultural inmaterial visto tanto en la artesanía como en sus actividades pesqueras.",
+        "fecha": "2023",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/fbcb6def-dcaa-4e9b-bc3b-1031d2266b0a",
+        "fotos": "https://picsum.photos/id/96/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Guía de Aves",
+        "descripcion": "Trabajo realizado para Servicio País Magallanes. Se realizó una guía de aves para la localidad de Dorotea, Puerto Natales, para complementar los talleres de avistamiento de aves que realizan todos los años. Esta guía de aves muestra las imágenes de los distintos tipos de ave, además de complementar con información clave de la ave,m como comportamiento, ubicaciones, tipos de nido, alimentación, entre otros.",
+        "fecha": "2024",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/76375c5e-8cd0-488f-b5a8-2aca86bea268",
+        "fotos": "https://picsum.photos/id/158/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Pendón AMAC",
+        "descripcion": "Trabajo de re-diseñar el pendón de AMAC, Agrupación Medioambiental Cañetenes. ",
+        "fecha": "2023",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/8c8fb2db-efbc-4f90-8356-50da9e79a3f4",
+        "fotos": "https://picsum.photos/id/180/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Afiches Día Patrimonio Regional",
+        "descripcion": "Trabajo realizado para Servicio País Magallanes, se realizaron los distintos tipos de afiches publicitarios para la instancia del Día del PAtrimonio Regional, siendo estos pendones, afiches cartelistas e invitaciones físicas.",
+        "fecha": "2023",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/2cbf6961-7df4-4fe0-8761-38dd449a4a14",
+        "fotos": "https://picsum.photos/id/157/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "RRSS Día Patrimonio Regional",
+        "descripcion": "Trabajo realizado para Taller SúperChoriflais, donde lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tellus massa, eleifend at dignissim nec, rhoncus scelerisque lorem. Aenean vel convallis magna. Aenean rhoncus cursus orci, id rutrum purus gravida a. Aliquam erat volutpat. Vivamus lacus odio, imperdiet non mauris et, luctus ultricies nisi.",
+        "fecha": "2021",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/1af74d50-d239-464c-ac7f-6f3444a00434",
+        "fotos": "https://picsum.photos/id/252/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Experiencia Santiago",
+        "descripcion": "Trabajo realizado para Taller Calidad II en colaboración con la empresa Olisur y su marca de aceite de oliva Santiago. Se realizó un kit de preparación de aceites de oliva con infusiones, pensados para aumentar el comercio del aceite de oliva, vendiéndolo más como una experiencia que un simple objeto.",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/b14b7433-810c-4bad-85a7-7a9ad60bde0a",
+        "fotos": "https://picsum.photos/id/357/900/600",
+        "github": "https://github.com/profesorfaco"
+    },
+    {
+        "nombre": "Relatos de una Rütrafe",
+        "descripcion": "Trabajo realizado para Taller Calidad I en colaboración con Celeste Painepan, joyera mapuche. Se realizó un juego de cuentos interactivos enfocado en niños de 3-8 años, donde se relatan las historias de Celeste sobre la joyería mapuche y sus simbolismos.",
+        "fecha": "2022",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/9b9871f9-2761-4631-bd2d-32d761afa685",
+        "fotos": "https://picsum.photos/id/146/900/600",
+        "github": "https://github.com/profesorfaco"
+    }
+]
