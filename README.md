@@ -10,7 +10,8 @@
 ![AMAC_PENDON](https://github.com/user-attachments/assets/8c8fb2db-efbc-4f90-8356-50da9e79a3f4)
 <img width="150" alt="AFICHES" src="https://github.com/user-attachments/assets/2cbf6961-7df4-4fe0-8761-38dd449a4a14">
 ![VACA](https://github.com/user-attachments/assets/c598dc2b-f53a-4936-924b-f196c6d557dc)
-![MARIPOSA](https://github.com/user-attachments/assets/c9e97341-5393-442e-b605-e057858cda50)
+![MARIPOSA](https://github.com/user-attachments/assets/34eadd20-7a5f-4307-a6fb-58a551eec367)
+
 
 
 ![ZOO-3](https://github.com/user-attachments/assets/2a8cbd0f-14a3-4108-a09e-7c122ff6d85e)
